@@ -9,4 +9,4 @@ A basic screenshotting tool to replace Snipping Tool. If you're using Windows 11
 
 ## Download
 [Installer](https://github.com/Lexz-08/Xnipper/releases/download/xnipper/Install-Xnipper.exe)<br/>
-[Standalone](https://github.com/Lexz-08/Xnipper/releases/download/xnipper/Xnipper.exe)
+[Standalone](https://github.com/Lexz-08/Xnipper/releases/download/xnipper/Xnipper.exe) - If you don't trust installers :)
