@@ -8,5 +8,5 @@ A basic screenshotting tool to replace Snipping Tool. If you're using Windows 11
   * Set Region Point #2: **Alt + Shift + 2**
 
 ## Download
-[Installer](https://github.com/Lexz-08/Xnipper/releases/download/xnipper/Install-Xnipper.exe)
+[Installer](https://github.com/Lexz-08/Xnipper/releases/download/xnipper/Install-Xnipper.exe)<br/>
 [Standalone](https://github.com/Lexz-08/Xnipper/releases/download/xnipper/Xnipper.exe)
